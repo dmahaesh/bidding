@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/admin", "destination": "/admin.html", "permanent": false },
+    { "source": "/seller", "destination": "/admin.html", "permanent": false }
+  ]
+}
